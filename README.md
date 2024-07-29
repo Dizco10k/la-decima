@@ -24,6 +24,64 @@ _https://github.com/AleixerCalderon/la-decima.git_
 ![Clonar](/Z-img/clonar6.png)
 
 
+
+-------------
+-------------
+# Taller Interactivo: Diseño Responsive en React
+### _Julian F. Latorre_
+## 1 Introducción
+Este taller está diseñado para enseñar los principios del diseño responsive en React
+de manera participativa. Los estudiantes trabajarán en grupos, asumiendo
+diferentes roles para resolver un desafío de diseño.
+-----------------
+## 2 Objetivo
+Crear una página web responsive utilizando React que se adapte a diferentes
+tamaños de pantalla y dispositivos.
+----------------
+## 3 Roles
+### 1. (Pino) Diseñador UX/UI: Encargado de crear wireframes y mockups para diferentes tamaños de pantalla.
+### 2. (Diego) Desarrollador Front-end: Responsable de implementar la estructura y estilos CSS.
+### 3. (Aleixer) Desarrollador React: Encargado de crear y gestionar los componentes React.
+### 4. (Giovanni) Experto en Media Queries: Responsable de implementar las media queries para lograr el diseño responsive.
+### 5. (Andrea) Tester: Encargado de probar la aplicación en diferentes dispositivos y reportar problemas.
+-----------------
+## 4 Actividad
+### 1. Dividir la clase en grupos de 5 personas, asignando un rol a cada miembro.
+### 2. Presentar el desaf´ıo: Crear una p´agina de inicio para una tienda en l´ınea con las siguientes secciones:
+### • Encabezado con logo y men´u de navegaci´onBanner principal
+### • Secci´on de productos destacados
+### • Pie de p´agina con informaci´on de contacto
+-----------------
+
+### 3. Cada grupo tiene 90 minutos para completar el desafío.
+### 4. Los grupos presentarán sus soluciones y explicarán sus decisiones de diseño.
+---------------------
+## 5 Proceso
+### 1. Fase de Diseño (20 minutos): El Diseñador UX/UI crea wireframes para móvil, tablet y desktop.
+### 2. Fase de Desarrollo (50 minutos):
+- El Desarrollador Front-end crea la estructura HTML y CSS base.
+- El Desarrollador React implementa los componentes necesarios.
+- El Experto en Media Queries ajusta los estilos para diferentes tamaños de pantalla.
+### 3. Fase de Pruebas (20 minutos): El Tester verifica la funcionalidad en diferentes dispositivos y reporta problemas.
+### 4. Presentaciones (5 minutos): Cada grupo presenta su solución a la clase brevemente en 5 minutos.
+------------------------
+## 6 Evaluación
+Los proyectos serán evaluados según los siguientes criterios:
+- Diseño atractivo y usable en todos los tamaños de pantalla
+- Correcta implementación de componentes React
+- Uso efectivo de media queries y técnicas de CSS responsive
+- Funcionamiento sin errores en diferentes dispositivos
+- Calidad de la presentación y explicación del proceso
+
+## 7 Recursos
+- Documentación de React: https://react.dev/learn
+- Guía de Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- Guía de Grid: https://css-tricks.com/snippets/css/complete-guide-grid/
+
+
+--------------------
+===========================================================================
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
