@@ -1,12 +1,28 @@
-# Getting Started with Create React App
+## La Decima
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 1 Para clonar el proyecto primero debemos dirigirnos al repositorio en la ruta:
+En GITHUB [Clonar](https://github.com/AleixerCalderon/la-decima.git)
+_https://github.com/AleixerCalderon/la-decima.git_
+![Clonar](/Z-img/clonar.png)
 
-## Available Scripts
+### 2 Al abrir *Visual estudio Code* oprimimos donde dice _Clone Git Repository…_ 
+![Clonar](/Z-img/clonar2.png)
 
-In the project directory, you can run:
+### 3 Luego agregamos la url copiada del repositorio en el campo superior y damos enter 
+![Clonar](/Z-img/clonar3.png)
 
+
+### 4 Abrimos la consola en VS Code
+![Clonar](/Z-img/clonar4.png)
+
+
+### 5 Agregamos en la consola “npm install” para instalar los paquetes de node en el proyecto
+![Clonar](/Z-img/clonar5.png)
+
+### Por ultimo para iniciar el programa agregamos “npm start”
 ### `npm start`
+![Clonar](/Z-img/clonar6.png)
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
